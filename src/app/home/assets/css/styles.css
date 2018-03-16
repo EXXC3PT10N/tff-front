@@ -1,0 +1,7 @@
+.elo {
+  background-image:url('../img/bg.jpg');
+  height:500px;
+  background-position:center;
+  background-size:cover;
+  background-attachment: fixed;
+}
