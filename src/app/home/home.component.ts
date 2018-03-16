@@ -18,6 +18,7 @@ import { Component, OnInit } from '@angular/core';
   ]
 })
 export class HomeComponent implements OnInit {
+  imagePath: any = 'iphone.svg';
   constructor() { }
 
   ngOnInit() {
